@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Ensure the system is up-to-date
+# Actualizar el sistema
 pacman -Syu
 
-# Install applications
+# Instalar aplicaciones
 sudo pacman -S vim
 
-echo "Applications installed and configured successfully."
+echo "Aplicaciones instaladas correctamente."
